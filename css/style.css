@@ -46,7 +46,10 @@
   margin-left: 8em;
 }
 #carros{
-    width: 30em;
-    align-items: center;
+    width: 90%;
+    border-radius: 0em;
+}
+#tituloveiculos{
+   margin-top: 0em;
 }
 }
