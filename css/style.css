@@ -1,0 +1,29 @@
+#titulo{
+    font-size: 4.3em; 
+}
+#menu{
+    margin-left: 3.5em;
+}
+.banner{
+    position: relative;
+    width: 100%;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../imagens/banner\(1\).jpg);
+    background-size: cover;
+    object-fit: cover;
+    object-position:bottom left;
+    overflow: hidden;
+    color: white;
+}
+#titulo
+{
+     font-size: 3.3em;
+    text-align: center;
+    align-items: center;
+}
+#botaomenu{
+    margin-left: 15.5em;
+}
