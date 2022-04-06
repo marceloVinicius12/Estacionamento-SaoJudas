@@ -7,3 +7,7 @@
     min-width:  100%;
     color: white;
 }
+#titulo{
+    list-style: none;
+    text-decoration: none;
+}
